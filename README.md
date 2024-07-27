@@ -116,8 +116,5 @@ pycache/
 .husky
 
 
-# VSCode
-.vscode/launch.json
-packages/protocol/config.js
-.vercel
+
 .
