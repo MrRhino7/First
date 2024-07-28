@@ -9,7 +9,7 @@ yarn-error.log*
 lerna-debug.log*
 start/
 # Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+report.
 
 # Runtime data
 pids
