@@ -8,7 +8,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 start/
-# Diagnostic reports (https://nodejs.org/api/report.html)
+# Diagnostic reports 
 report.
 
 # Coverage directory used by tools like london
