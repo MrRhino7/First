@@ -1,4 +1,5 @@
 $start
+start/
 # Logs
 *.log
 npm-debug.log*
