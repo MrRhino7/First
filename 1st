@@ -110,6 +110,7 @@ build/Release
 
 # python
 pycache/
+.husky
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
