@@ -56,7 +56,7 @@ typings/
 # Optional npm cache directory
 .npm
 
-# Optional eslint cache
+# Optional eslint cache # TypeScript v1 declaration files
 .eslintcache
 
 # Microbundle cache
