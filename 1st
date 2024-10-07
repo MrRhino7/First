@@ -118,6 +118,14 @@ build/Release
 pycache/
 .husky
 
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
