@@ -97,6 +97,10 @@ dist
 # vuepress build output
 .vuepress/dist
 
+# panel dotenv environment variables file
+.env
+.env.test
+
 # Serverless directories
 .serverless/
 
